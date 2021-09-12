@@ -1,0 +1,13 @@
+{
+  "name": "bb-assessment",
+  "version": "1.0.0",
+  "description": "Build a responsive website of beautiful beginings application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surya pisipati",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
