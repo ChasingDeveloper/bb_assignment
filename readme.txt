@@ -38,8 +38,6 @@ Responsive:
   - For some reason the site isn't switching over to "mobile" styles in devices
   - Also when you shrink down the browser some sort of content is causing a horizontal scrollbar in smaller screens
   - In between sizes for tablet portrait feel fairly empty, is there something we can style to make them look better
-
-
 The client is very active in the project and wants a technical breakdown of what you did and how you resolved the missing items. 
 So we need a writing assessment as well as the code above. 
 They also want to know how the design UI/UX and FED code practices could be improved down the road, so please include that as well in your writing. 
